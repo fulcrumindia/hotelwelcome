@@ -1,0 +1,16 @@
+{
+  "name": "hotelapp",
+  "version": "1.0.0",
+  "description": "hotel management system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "mongoose": "^4.10.8"
+  },
+  "author": "Lavy Toteza",
+  "license": "ISC"
+}
